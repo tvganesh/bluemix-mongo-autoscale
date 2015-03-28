@@ -1,18 +1,8 @@
 # NodeExpressMongo
 
 ## Objective
+This project demostrates Autoscaling with Blue mix
 
 
-
-## Usage
-
-
-
-## Developing
-
-
-
-### Tools
-
-Created with [Nodeclipse v0.5](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
+For details please see my post https://gigadom.wordpress.com/2014/11/05/bend-it-like-bluemix-mongodb-using-auto-scale-part-1/
+For more similar posts visit my blog https://gigadom.wordpress.com/
